@@ -1,0 +1,16 @@
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.csproj.AssemblyReference.cache
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\MainWindow.baml
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\MainWindow.g.cs
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\App.g.cs
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject_MarkupCompile.cache
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.g.resources
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.Properties.Resources.resources
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.csproj.GenerateResource.cache
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.csproj.CoreCompileInputs.cache
+D:\ПРАКТИКА\TaroProject\TaroProject\bin\Debug\TaroProject.exe.config
+D:\ПРАКТИКА\TaroProject\TaroProject\bin\Debug\TaroProject.exe
+D:\ПРАКТИКА\TaroProject\TaroProject\bin\Debug\TaroProject.pdb
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject_MarkupCompile.lref
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.exe
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.pdb
+D:\ПРАКТИКА\TaroProject\TaroProject\obj\Debug\TaroProject.exe.config

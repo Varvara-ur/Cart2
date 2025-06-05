@@ -1,0 +1,30 @@
+﻿<Window x:Class="CardsApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CardsApp"
+        mc:Ignorable="d"
+        Title="Карточное приложение" Height="450" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+            <Button Content="Перемешать" Width="100" Margin="5" Click="Shuffle_Click"/>
+            <Button Content="Сортировать по имени" Width="120" Margin="5" Click="SortByName_Click"/>
+            <Button Content="Исходный порядок" Width="100" Margin="5" Click="Reset_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+            <TextBox x:Name="SearchTextBox" Width="200" Margin="5"/>
+            <Button Content="Поиск" Width="80" Margin="5" Click="Search_Click"/>
+            <Button Content="Показать все" Width="80" Margin="5" Click="ShowAll_Click"/>
+        </StackPanel>
+
+        <ListBox Grid.Row="2" x:Name="CardsListBox" DisplayMemberPath="Name"/>
+    </Grid>
+</Window>
